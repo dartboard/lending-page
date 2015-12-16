@@ -1,0 +1,101 @@
+body {
+  font-family: 'Maven Pro', sans-serif;
+}
+.navbar-nav>li>a {
+  font-size: 1.2em;
+}
+
+/*p {
+  font-size: 200%;
+}*/
+
+#logo_nav {
+  height:30px;
+}
+
+.navbar-default {
+  height: 60px;
+  padding: 1em;
+  background-color: black;
+  background-image: none;
+}
+.navbar-nav {
+  margin-top: -10px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: white;
+
+}
+
+/*#top {
+  height: 700px;
+  background-image: url('1.jpg');
+  margin-right:0;
+  margin-left:0;
+}*/
+#top {
+  min-height: 100vh;
+}
+.jumbotron {
+  background-color: #fff;
+  /*background-image: url('blurred-background-4.jpg');*/
+  min-height: 400px;
+/*  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;*/
+}
+
+#start-button {
+  margin-top: 3em;
+  border-radius: 5%;
+  font-size: 1.3em;
+}
+
+.logo_container {
+  background-image: url('gradient.jpg');
+  height: 100vh;
+}
+
+#logo {
+ padding-top:40vh;
+ padding-left: 30px;
+ padding-right: 30px;
+}
+.middle {
+  background-color: #FFDF6A;
+  height: 100vh;
+  color:white;
+  background-image: url('gradient-green.jpg');
+}
+#scroll_down {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20vh;
+  color: #155589;
+}
+.story {
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-bottom: 3em;
+}
+.stories {
+  border-top: 2px solid #ccc;
+  margin: 1em 2em;  
+  margin-bottom: 4em;
+}
+.face_img {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.icon_small {
+  height: 10vh;
+  margin-top: 1vh;
+}
+#middle-content {
+  padding-top: 30vh;
+}
