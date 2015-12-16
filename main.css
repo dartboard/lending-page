@@ -53,7 +53,7 @@ body {
 }
 
 .logo_container {
-  background-image: url('gradient.jpg');
+  background-image: url('img/gradient.jpg');
   height: 100vh;
 }
 
@@ -66,7 +66,7 @@ body {
   background-color: #FFDF6A;
   height: 100vh;
   color:white;
-  background-image: url('gradient-green.jpg');
+  background-image: url('img/gradient-green.jpg');
 }
 #scroll_down {
   font-size: 30px;
